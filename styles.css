@@ -3,7 +3,8 @@
 .holder{
 	display:flex;
 	flex-direction:row;
-	padding-left:30px ;
+	justify-content:center;
+	
 	flex-wrap:wrap;
 	
 }
